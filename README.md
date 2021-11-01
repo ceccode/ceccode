@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi 👋, I'm Francesco Falanga
 
-<!--
-**ceccode/ceccode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Engineer and tech entrepreneur from Italy.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Me on the Internet
+
+- Twitter: [@falanga_F](https://twitter.com/falanga_f)
+- LinkedIn: [francescofalanga](https://www.linkedin.com/in/francescofalanga/)
+- Polywork: [francesco_f](poly.work/francesco_f)
+
+
+### Communities
+
+- [WEBdeBS](http://webdebs.org/) - Proudly made in Brescia
+
