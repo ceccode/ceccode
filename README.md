@@ -7,7 +7,6 @@ A passionate Engineer and tech entrepreneur from Italy.
 
 - Twitter: [@falanga_f](https://twitter.com/falanga_f)
 - LinkedIn: [francescofalanga](https://www.linkedin.com/in/francescofalanga/)
-- Polywork: [francesco_f](https://poly.work/francesco_f)
 
 
 ### Communities
